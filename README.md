@@ -1,1 +1,1 @@
-# HW-Web-Deve
+Project was completed using HTML and CSS
